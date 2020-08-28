@@ -1,0 +1,11 @@
+header {
+    display: flex;
+    align-items: center;
+    height: 60px;
+    background-color: lightpink;
+    .brand {
+        font-size: 38px;
+        color: wheat;
+        padding: 20px;
+    }
+}
